@@ -1,0 +1,1 @@
+ast-grep>=0.15\nbandit>=1.7\nradon>=6.0

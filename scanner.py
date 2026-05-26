@@ -1,0 +1,1 @@
+class CodeScanner:\n    def scan(self, code):\n        return []
